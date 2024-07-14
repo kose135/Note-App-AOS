@@ -109,7 +109,7 @@ fun NoteScreen(
                         .height(56.dp),
                     deleteEnable = deleteEnable,
                     selectedCount = selectedNotes.size,
-                    isAll = notes.equals(selectedNotes),
+                    isAll = notes.all { it in selectedNotes },
                     clickAll = { isAll ->
                         selectedNotes.clear()
 
