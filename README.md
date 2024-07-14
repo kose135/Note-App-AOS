@@ -1,4 +1,4 @@
-# Note Applicaion (Android, )
+# Note Applicaion (Android)
 
 Simple note app developed on Android
 Use room database
