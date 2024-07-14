@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Note App</string>
+
+    <string name="str_topbar_note_add_edit"></string>
+
+    <string name="str_login">간편 로그인</string>
+    <string name="str_kakao_login">카카오 로그인</string>
+    <string name="str_naver_login">네이버 로그인</string>
+
+    <string name="str_empty_note">작성된 노트가 없습니다.</string>
+
+    <string name="str_search">검색할 단어를 입력 하세요.</string>
+
+    <string name="str_sort_type_title">제목</string>
+    <string name="str_sort_type_update">수정 날짜</string>
+    <string name="str_sort_type_create">만든 날짜</string>
+
+    <string name="str_title">제목</string>
+    <string name="str_text">내용</string>
+
+    <string name="msg_upsert_failure">내용 변경에 실패했습니다.\n다시 시도해 주시길 바랍니다.</string>
+
+    <string name="str_sync">동기화</string>
+    <string name="str_trash">휴지통</string>
+
+    <string name="str_dialog_delete_title">노트를 삭제하시겠습니까?</string>
+    <string name="str_dialog_delete_text">"%10s"</string>
+    <string name="str_dialog_delete_dismiss">취소</string>
+    <string name="str_dialog_delete_confirm">삭제</string>
+
+    <string name="str_select_all">전체</string>
+    <string name="str_select_count">%s개 선택됨</string>
+
+</resources>
