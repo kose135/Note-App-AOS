@@ -20,7 +20,6 @@ Use room database
 * Room - A library that makes it easier to use SQLite databases
 * Landscapist
     * Glide - Load images simply by using `GlideImage` composable function
-    * Palette - Useful image plugins related to palette, such as extracting primary color sets
 * Timber - This is a logger with a small, extensible API which provides utility on top of Android's normal Log class.
 * Lottie - JSON-based animation.
 
