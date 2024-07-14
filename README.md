@@ -18,8 +18,6 @@ Use room database
     * Flow - A cold asynchronous data stream that sequentially emits values and completes normally or with an exception
 * Hilt, Dagger - Standard library to incorporate Dagger dependency injection into an Android application
 * Room - A library that makes it easier to use SQLite databases
-* Landscapist
-    * Glide - Load images simply by using `GlideImage` composable function
 * Timber - This is a logger with a small, extensible API which provides utility on top of Android's normal Log class.
 * Lottie - JSON-based animation.
 
