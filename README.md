@@ -5,8 +5,11 @@ Use room database
 
 # Preview
 
-<img src="/doc/preview.gif" align="center" width="35%"/>
+<img src="/doc/note.gif" align="center" width="35%"/>
 
+* You can delete a note by long pressing it.
+
+<img src="/doc/note_delete.gif" align="center" width="35%"/>
 
 # Tech stack
 
